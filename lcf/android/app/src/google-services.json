@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939919517768",
+    "project_id": "lcfdatabase",
+    "storage_bucket": "lcfdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939919517768:android:133e44cd09ca95cf27107d",
+        "android_client_info": {
+          "package_name": "com.example.lcf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939919517768-bjafgp3ivpiin5d0m7v8tg1da3kue09a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEIsNmpV1hKYk3lGcHXcQhtwHyrBzu7YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939919517768-bjafgp3ivpiin5d0m7v8tg1da3kue09a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
